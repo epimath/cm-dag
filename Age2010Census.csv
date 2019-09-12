@@ -1,0 +1,23 @@
+Age_Name,Age_group,Population
+less than 5,1,20201362
+5 to 9 years,2,20348657
+10 to 14 years,3,20677194
+15 to 19 years,4,22040343
+20 to 24 years,5,21585999
+25 to 29 years,6,21101849
+30 to 34 years,7,19962099
+35 to 39 years,8,20179642
+40 to 44 years,9,20890964
+45 to 49 years,10,22708591
+50 to 54 years,11,22298125
+55 to 59 years,12,19664805
+60 to 64 years,13,16817924
+65 to 69 years,14,12435263
+70 to 74 years,15,9278166
+75 to 79 years,16,7317795
+80 to 84 years,17,5743327
+85 to 89 years,18,3620459
+90 to 94 years,19,1448366
+95 to 99 years,20,371244
+100 years and over ,21,53364
+total ,NA,308745538
