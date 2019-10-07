@@ -1,5 +1,5 @@
 # cm-dag
-Code for the compartmental model/DAG project.
+Code for e compartmental model/DAG project: Havumaki J and Eisenberg MC, 2019. [Mathematical modeling of directed acyclic graphs to explore competing causal mechanisms underlying epidemiological study data](https://www.medrxiv.org/content/10.1101/19007922v1), medRxiv preprint.
 
 The age-structured obesity paradox model can be ran in R using the model2_main.R file.
 
